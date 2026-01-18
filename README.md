@@ -11,19 +11,19 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-- 💻 Full Stack Developer focused on **building real-world web applications**
-- ⚛️ Strong in **React.js**, modern UI design & API integration  
+- 💻 Full Stack Developer building **real-world web applications**
+- ⚛️ Frontend focused on **React.js & modern UI**
 - 🌐 Backend experience with **Node.js, Express & MongoDB**
-- 🧠 Love learning by **building projects from scratch**
-- 🎯 Currently aiming for **internships & entry-level full-stack roles**
+- 🧠 Learn by building, debugging, and improving
+- 🎯 Actively preparing for **internships & junior developer roles**
 
-📫 **Reach me at:** `siddharthvhatkar4@gmail.com`
+📫 **Email:** `siddharthvhatkar4@gmail.com`
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:siddharthvhatkar4@gmail.com">
@@ -36,9 +36,9 @@
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
-### 🌐 Frontend  
+### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -48,26 +48,26 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🛠 Backend  
+### 🛠 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### 🗄 Database  
+### 🗄 Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 📱 Mobile Development  
+### 📱 Mobile Development
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-### 🧰 Tools  
+### 🧰 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HA24RSH&show_icons=true&theme=dark" />
@@ -89,7 +89,7 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HA24RSH&theme=darkhub&no-frame=true&column=7" />
@@ -97,4 +97,5 @@
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
+⭐ If you like my work, feel free to **star my repositories**!
+
